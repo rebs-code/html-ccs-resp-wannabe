@@ -195,3 +195,16 @@ img {
 
 
 }
+
+/* TABLET VERSION */
+
+@media screen and (max-width: 768px) {
+
+    /* first section lessons */
+
+    .container {
+        max-width: 768px;
+    }
+
+
+}
