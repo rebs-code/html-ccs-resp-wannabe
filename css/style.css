@@ -206,5 +206,9 @@ img {
         max-width: 768px;
     }
 
+    .steps {
+        min-width: 768px;
+    }
+
 
 }
