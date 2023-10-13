@@ -47,6 +47,7 @@ img {
 
 /* LAYOUT */
 .container {
+    max-width: 100%; /* ensures between 768 and 1160 no scroll bar appears */
     width: 1140px;
     margin: 0 auto;
     padding: 0 20px;
@@ -203,12 +204,10 @@ img {
     /* first section lessons */
 
     .container {
-        max-width: 768px;
+        max-width: 100%;
     }
 
-    .steps {
-        min-width: 768px;
-    }
+
 
 
 }
